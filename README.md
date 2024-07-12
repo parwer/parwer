@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi 👋 , I'm Patiput Ukham
 
-# Skill
-[![My Skills](https://skillicons.dev/icons?i=anaconda,docker,kubernetes,aws,firebase,git,github,postman,c,cpp,cs,dotnet,py,java,html,css,js,ts,react,tailwind,nodejs,fastapi,vite,npm,tensorflow,pytorch,opencv&perline=9)](https://skillicons.dev)
+## Tech Stack
+<details>
+<summary> 
+Details
+</summary>
+[![My Skills](https://skillicons.dev/icons?i=anaconda,docker,kubernetes,aws,firebase,git,github,postman,c,cpp,cs,dotnet,py,java,html,css,js,ts,react,tailwind,nodejs,fastapi,vite,npm,tensorflow,pytorch,opencv&perline=9)]
+</details>
 
 # Ai Experience
 |Name            |Description           |Code     |
