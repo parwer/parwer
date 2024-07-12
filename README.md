@@ -5,12 +5,22 @@
 <summary> 
 Details
 </summary>
-[![My Skills](https://skillicons.dev/icons?i=anaconda,docker,kubernetes,aws,firebase,git,github,postman,c,cpp,cs,dotnet,py,java,html,css,js,ts,react,tailwind,nodejs,fastapi,vite,npm,tensorflow,pytorch,opencv&perline=9)]
+
+### Programming Languages
+![Programming Languages](https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,ts)
+
+### Web Development
+![Web Development](https://skillicons.dev/icons?i=react,tailwind,express,nodejs,fastapi,flask,mysql,firebase)
+
+### Machine Learning
+![Machine Learning](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)
+
 </details>
 
-# Ai Experience
-|Name            |Description           |Code     |
-|----------------|----------------------|---------|
+# Experience
+- Coming soon...
+<!-- |Name            |Description           |Code     |
+|----------------|----------------------|---------| -->
 
 <!--
 **parwer/parwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
