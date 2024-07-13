@@ -23,6 +23,7 @@ Details
 ## Experience
 <details>
 <summary>
+Details
 </summary>
    Coming soon...
 </details>
