@@ -57,4 +57,4 @@ Details
 |----------------|----------------------|---------| -->
 
 ## Stats
-[![Parwer's GitHub stats](https://github-readme-stats.vercel.app/api?username=parwer&hide=stars&count_private=true&show_icons=true&show_icons=true&theme=radical)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parwer&layout=compact&langs_count=6&theme=radical)]
+![Parwer's GitHub stats](https://github-readme-stats.vercel.app/api?username=parwer&hide=stars&count_private=true&show_icons=true&show_icons=true&theme=radical)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parwer&layout=compact&langs_count=6&theme=radical)
