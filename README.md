@@ -7,10 +7,10 @@
 - 🥵 I’m currently learning Machine Learning
 
 ## Tech Stack
-<details>
-<summary> 
-Details
-</summary>
+//<details>
+//<summary> 
+//Details
+//</summary>
 
 ### Programming Languages
 ![Static Badge](   https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,7 +44,7 @@ Details
 ![Static Badge](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-</details>
+//</details>
 
 ## Experience
 <details>
