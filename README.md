@@ -3,7 +3,6 @@
 ## About me
 - 🧑‍💻 I'm Computer Science student at Kasetsart University
 - 💻 I'm interested in Machine Learning and Web Development
-- ⚡ I'm looking forward to learn new things
 - 🥵 I’m currently learning Machine Learning
 
 ## Tech Stack
