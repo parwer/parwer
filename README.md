@@ -1,5 +1,4 @@
-## Hi 👋 , I'm Patiput Ukham
-
+## Hi 👋 , I'm Parwer
 ## About me
 - 🧑‍💻 I'm Computer Science student at Kasetsart University
 - 💻 I'm interested in Machine Learning and Web Development
